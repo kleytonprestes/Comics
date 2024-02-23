@@ -1,0 +1,19 @@
+/build
+/gradle
+
+# Generated files
+out/
+
+# Gradle files
+.gradle/
+
+build/
+output-metadata.json
+
+# Android Studio
+*.iml
+.idea/*
+
+# generated files
+bin/
+gen/
